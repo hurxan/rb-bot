@@ -1,5 +1,5 @@
 # rb-bot
-A RB Bot for Telegram that sends you notification whenever there is a new value bet in your account.
+A RB Bot for Telegram that sends you a notification whenever there is a new value bet in your account.
 
 # Setup
 <ol>
